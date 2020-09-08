@@ -20,4 +20,4 @@ Model consists of Encoder and Decoder (uses Luong Attention architecture) parts
 
 Achieved 32 Bleu Score on above model 
 
-(Compared Human label sentences Vs Chatbot Output sentences to calculate Bleu score so Bleu score obtained is not generalized and is calculated only for a particular Human label sentence)
+(Compared Human label sentences Vs Chatbot Output sentences to calculate Bleu score so Bleu score obtained is not generalized and is calculated only for a single Human label sentence corresponding to each test sentence)
