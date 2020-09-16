@@ -18,6 +18,6 @@ Model consists of Encoder and Decoder (uses Luong Attention architecture) parts
 
 <img src="https://github.com/nilakshi104/ChatBot/blob/master/Images/Screenshot%20from%202020-09-06%2004-19-24_n.png" width=500/img>
 
-Achieved 32 Bleu Score on above model 
+Achieved 32.08 Bleu Score on above model 
 
 (Compared Human label sentences Vs Chatbot Output sentences to calculate Bleu score so Bleu score obtained is not generalized and is calculated only for a single Human label sentence corresponding to each test sentence)
