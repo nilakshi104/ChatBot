@@ -1,4 +1,7 @@
 # ChatBot
+
+This repository is referrred from PYTORCH CHATBOT TUTORIAL
+
 Repository contains of python code for building a chatbot using pytorch which can respond to queries in English
 
 ### Dataset:
