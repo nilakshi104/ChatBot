@@ -1,6 +1,6 @@
 # ChatBot
 
-This repository is referrred from PYTORCH CHATBOT TUTORIAL
+The Code in this repository is referred from PYTORCH CHATBOT TUTORIAL with modifications.
 
 Repository contains of python code for building a chatbot using pytorch which can respond to queries in English
 
